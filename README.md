@@ -1,61 +1,72 @@
-<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Prafull Sahu</h1>
-<h3 align="center">A passionate Web Developer & CSBS Student from India</h3>
+<h3 align="center">💻 MERN Stack Developer | Problem Solver | Pre-final Year Student 🎓</h3>
 
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://github.com/Prafullsahu369">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=Web+Developer;Java+%7C+DSA+Learner;Open+Source+Contributor;Tech+Explorer;Always+Learning+New+Things">
-  </a>
+---
+
+## 💫 About Me  
+🌱 Currently learning and exploring **MERN Stack & DSA**  
+💻 Passionate about **Web Development, Open Source & Problem Solving**  
+⚡ Fun fact: I love turning ideas into **interactive projects**  
+🎯 Goal: Becoming a skilled **Full Stack Developer**  
+
+---
+
+## 🌐 Connect with me  
+<p align="left">
+<a href="https://www.linkedin.com/in/prafull-sahu-1251022a6/?trk=public-profile-join-page" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com" target="blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="Twitter"/></a>
 </p>
 
 ---
 
-## 🚀 About Me
-- 🌱 I’m currently learning **DSA in Java & Backend Development**
-- 👨‍💻 All of my projects are available on my [GitHub](https://github.com/Prafullsahu369)
-- 💬 Ask me about **Java, Web Development, React, and Problem Solving**
-- ⚡ Fun fact: *I believe good code is like a good joke — it needs no explanation!*
-
----
-
-## 🛠️ Languages and Tools
+## 🚀 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,express,mongodb,java,cpp,c,git,github,postman,npm,figma,canva" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 📊 GitHub Stats  
 <p align="center">
-  <a href="https://github.com/Prafullsahu369"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="40"/></a>
-  <a href="https://www.linkedin.com/in/prafullsahu369"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="40"/></a>
-  <a href="https://twitter.com/"><img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" width="40"/></a>
-  <a href="mailto:prafullsahu369@gmail.com"><img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" width="40"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prafullsahu369&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Prafullsahu369&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prafullsahu369&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prafullsahu369&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prafullsahu369&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Prafullsahu369&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## ✍️ Random Dev Quote  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prafullsahu369&theme=tokyonight" alt="streak stats"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔝 Top Contributed Repo  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prafullsahu369&theme=algolia&margin-w=15&margin-h=15"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Prafullsahu369&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 ---
 
-⭐️ From [Prafull Sahu](https://github.com/Prafullsahu369)
+## 🔥 Animated Banner / Fun  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=38C2FF&lines=👨‍💻+MERN+Stack+Developer;🚀+Problem+Solver;✨+Open+Source+Contributor;🎯+Always+Learning+%26+Growing" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif">
+</p>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Prafullsahu369&icon=0&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with ❤️ by Prafull Sahu -->
