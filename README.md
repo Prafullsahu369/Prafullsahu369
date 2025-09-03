@@ -42,10 +42,7 @@
 
 ---
 
-## ✍️ Random Dev Quote  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+
 
 ---
 
@@ -56,14 +53,8 @@
 
 ---
 
-## 🔥 Animated Banner / Fun  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=38C2FF&lines=👨‍💻+MERN+Stack+Developer;🚀+Problem+Solver;✨+Open+Source+Contributor;🎯+Always+Learning+%26+Growing" />
-</p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif">
-</p>
+
 
 ---
 
